@@ -63,9 +63,6 @@ target_dict = {
     30: [703],
     31: [262]
 }
-target_dict = {
-    10: [1141, 1142]
-}
 target_dir = os.path.join(curr_dir, 'pck')
 output_dir = os.path.join(curr_dir, 'out-pck')
 if not os.path.exists(output_dir):
